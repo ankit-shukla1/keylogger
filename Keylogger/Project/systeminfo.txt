@@ -1,0 +1,35 @@
+Public IP Address: 106.207.69.135Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
+Public IP Address: 106.207.69.135
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
+Public IP Address: 106.207.69.135
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
+Public IP Address: 106.207.69.135
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
+Public IP Address: 106.207.69.135
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
+Public IP Address: 106.207.69.135
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: DESKTOP-T275L8C
+Private IP Address:192.168.43.158
